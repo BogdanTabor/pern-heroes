@@ -1,0 +1,25 @@
+{
+  "name": "pern-todo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express-fileupload": "^1.4.0",
+    "multer": "^1.4.5-lts.1",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BogdanTabor/pern-heroes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BogdanTabor/pern-heroes/issues"
+  },
+  "homepage": "https://github.com/BogdanTabor/pern-heroes#readme"
+}
